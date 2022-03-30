@@ -1,4 +1,17 @@
 
+While working on various tasks in #osint (Open Source Intelligence), sometimes there is a need to quickly understand someone else's code.
+
+For example, when investigating a person's public profile on Github or Bitbucket.
+
+Also, the need to understand other people's code may arise when one wants to modify some of the #opensoure tools for #osint to suit one's needs.
+
+Here is a small selection of online tools to help you do that.
+
+Most of them are free.
+
+You can read a summary of how to work with the different classes of tools in my Twitter thread: https://twitter.com/cyb_detective/status/1508167717928546312
+
+
 <h1>Online compliers</h1>
 
 | TIO (try it online). 681+ languages |https://tio.run/# | FREE |</br>
