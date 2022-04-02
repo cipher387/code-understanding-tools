@@ -36,12 +36,12 @@ You can read a summary of how to work with the different classes of tools in my 
 | Explain dev (many languages) |https://explain.dev/pricing/ | $4/month |</br>
 
 <h1>Code quality checkers</h1>
-|Deepscan. JavaScript static analyze tool |https://deepscan.io| FREE for open source projects |</br>
-|Deepsource. Static analyze every pull request in Github, Gitlab and Bitbucket repos |https://deepsource.io| FREE|</br>
-|Snyk AI code checker |https://snyk.io/code-checker/| FREE |</br>
-|Jshint. JavaScript code quality tool  |https://jshint.com| FREE |</br>
-|Codebeat. Code review tool |https://codebeat.co/|FREE for public repositories |</br>
-|Webhint. Hints for website's html/css/js code improvement |https://webhint.io/|FREE|</br>
+|Deepscan. JavaScript static analyze tool |https://deepscan.io | FREE for open source projects |</br>
+|Deepsource. Static analyze every pull request in Github, Gitlab and Bitbucket repos |https://deepsource.io | FREE|</br>
+|Snyk AI code checker | https://snyk.io/code-checker/ | FREE |</br>
+|Jshint. JavaScript code quality tool  |https://jshint.com | FREE |</br>
+|Codebeat. Code review tool | https://codebeat.co/ | FREE for public repositories |</br>
+|Webhint. Hints for website's html/css/js code improvement | https://webhint.io/ | FREE |</br>
 
 
 
