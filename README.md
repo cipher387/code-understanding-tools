@@ -42,8 +42,10 @@ You can read a summary of how to work with the different classes of tools in my 
 |Jshint. JavaScript code quality tool  |https://jshint.com | FREE |</br>
 |Codebeat. Code review tool | https://codebeat.co/ | FREE for public repositories |</br>
 |Webhint. Hints for website's html/css/js code improvement | https://webhint.io/ | FREE |</br>
-
-
+|ShellCheck. Find mistakes in bash scripts | https://www.shellcheck.net/ | FREE |</br>
+|PHP Code Checker | https://phpcodechecker.com | FREE |</br>
+|Python Code Checker | https://extendsclass.com/python-tester.html | FREE |</br>
+|W3C Markup Validation Service (HTML, XHTML, CSS) | https://validator.w3.org | FREE |</br>
 
 <h1>Code visualisators</h1>
 
