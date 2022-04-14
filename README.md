@@ -89,6 +89,7 @@ You can read a summary of how to work with the different classes of tools in my 
 
 <h1>Deobfuscators</h1>
 
+| JavaScript UnFuck, UnPack, UnHex, UnMinify |https://lelinhtinh.github.io/de4js/ | FREE |</br>
 | JavaScript |https://lelinhtinh.github.io/de4js/ | FREE |</br>
 | LUA |https://glot.io/snippets/fnarug0ca6 | FREE |</br>
 | PHP |https://glot.io/snippets/efruafhnez | FREE |</br>
