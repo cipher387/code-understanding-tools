@@ -23,21 +23,30 @@ You can read a summary of how to work with the different classes of tools in my 
 
 
 <h1>Coding assistants</h1>
-
+| Name             | Link            | Price       | 
+|------------------|-------------------------|-------------|
 | Codiga (more than 12 languages) |https://www.codiga.io/ | from $12/month |</br>
 | Codota (Java, Javascript, TypeScript, Python, PHP, Go, Ruby, C, C++, Rust, C#) |https://www.codota.com/ | FREE |</br>
 
 <h1>Natural languages to code</h1>
+
+| Name             | Link            | Price       | 
+|------------------|-------------------------|-------------|
 | Copilot (Python, Ruby, JavaScript, Go, TypeScript) |https://copilot.github.com/ | from $5.8/month |</br>
 
 <h1>Code explainers</h1>
 
+| Name             | Link            | Price       | 
+|------------------|-------------------------|-------------|
 | Explain code app (Nodejs, JavaScript, Python, Go, SQl, Haskell) |https://www.explaincode.app/explain-code-tools | $6/month |</br>
 | Explain SHELL (bash scripts) |https://explainshell.com/ | FREE |</br>
 | JavaScript code explainer |https://codeexplainer.org/ | FREE |</br>
 | Explain dev (many languages) |https://explain.dev/pricing/ | $4/month |</br>
 
 <h1>Code quality checkers</h1>
+
+| Name             | Link            | Price       | 
+|------------------|-------------------------|-------------|
 |Deepscan. JavaScript static analyze tool |https://deepscan.io | FREE for open source projects |</br>
 |Deepsource. Static analyze every pull request in Github, Gitlab and Bitbucket repos |https://deepsource.io | FREE|</br>
 |Snyk AI code checker | https://snyk.io/code-checker/ | FREE |</br>
@@ -51,6 +60,8 @@ You can read a summary of how to work with the different classes of tools in my 
 
 <h1>Code visualisators</h1>
 
+| Name             | Link            | Price       | 
+|------------------|-------------------------|-------------|
 | Javascript code to flow chart |https://app.code2flow.com/ | FREE |</br>
 | Python |https://pythontutor.com/visualize.html | FREE |</br>
 | Java |https://pythontutor.com/java.html#mode=edit | FREE |</br>
@@ -64,11 +75,15 @@ You can read a summary of how to work with the different classes of tools in my 
 
 <h1>Comments generators</h1>
 
+| Name             | Link            | Price       | 
+|------------------|-------------------------|-------------|
 | Java |https://www.easycodeforall.com/JavaDocGen.jsp | FREE |</br>
 | JavaScript |https://smartcomments.github.io/ | FREE |</br>
 
 <h1>Beautification/formatting</h1>
 
+| Name             | Link            | Price       | 
+|------------------|-------------------------|-------------|
 | JavaScript |https://beautifier.io/ | FREE |</br>
 | JavaScript, JSON, TypeScript, HTML, PHP, CSS, Python |https://www.labnol.org/beautifier/ | FREE |</br>
 | Vue, Angular, YAML, Glimmer, GraphQL, Babel and much more |https://prettier.io/playground/ | FREE |</br>
@@ -91,6 +106,8 @@ You can read a summary of how to work with the different classes of tools in my 
 
 <h1>Deobfuscators</h1>
 
+| Name             | Link            | Price       | 
+|------------------|-------------------------|-------------|
 | JavaScript UnFuck, UnPack, UnHex, UnMinify |https://lelinhtinh.github.io/de4js/ | FREE |</br>
 | JavaScript |https://lelinhtinh.github.io/de4js/ | FREE |</br>
 | LUA |https://glot.io/snippets/fnarug0ca6 | FREE |</br>
