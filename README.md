@@ -23,6 +23,7 @@ You can read a summary of how to work with the different classes of tools in my 
 
 
 <h1>Coding assistants</h1>
+
 | Name             | Link            | Price       | 
 |------------------|-------------------------|-------------|
 | Codiga (more than 12 languages) |https://www.codiga.io/ | from $12/month |</br>
