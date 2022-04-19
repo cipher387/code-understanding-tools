@@ -14,6 +14,8 @@ You can read a summary of how to work with the different classes of tools in my 
 
 <h1>Online compliers</h1>
 
+| Name             | Link            | Price       | 
+|------------------|-------------------------|-------------|
 | TIO (try it online). 681+ languages |https://tio.run/# | FREE |</br>
 | Codeshef (20+ languages) |https://www.codechef.com/ide | FREE |</br>
 | OneComplier (60+ languages) |https://onecompiler.com/ | FREE |</br>
