@@ -122,6 +122,7 @@ You can read a summary of how to work with the different classes of tools in my 
 |View Rendered Source (view DOM after JavaScript modification) | https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob/related| FREE |</br>
 |Quick source viewer | https://chrome.google.com/webstore/detail/quick-source-viewer/cfmcghennfbpmhemnnfjhkdmnbidpanb/related | FREE |
 |View-Source (with comfortable line numeration) | https://chrome.google.com/webstore/detail/%3Cview-source%3E/dmfgkkcgfcaciolbfagclhaainpigkmd/related |FREE |
+|Selection Finder | https://chrome.google.com/webstore/detail/selector-finder/aleacfocnimnddplebbpbfedfagnckcc/related| FREE |
 |CSS Viewer |https://chrome.google.com/webstore/detail/css-viewer-for-google-chr/eedfldkdghfkhdcanjnfiklpeehbfoag/related | FREE |
 |Semantic HTML Viewer (highlight markup blocks) |https://chrome.google.com/webstore/detail/semantic-html-viewer/glapikbnefnagjolgppjefchjkjffhog/related |FREE |
 |HTML DOM Navigation |https://chrome.google.com/webstore/detail/html-dom-navigation/eimpgjcahblfpdgiknmbmglcafegimil | FREE |
@@ -131,6 +132,6 @@ You can read a summary of how to work with the different classes of tools in my 
 |Powerful Storage Tool | https://chrome.google.com/webstore/detail/powerful-storage-tool/jcaligmdhfdbenokhdfohhmkohkaggco/related |FREE  |
 |UMatrix (control of where your browser is allowed to connect)|https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf/related| FREE |
 |Reqestly (Modify Headers, Mock APIs, Throttle APIs, Insert Scripts, Block APIs/JS/CSS, Redirect URLs) |https://chrome.google.com/webstore/detail/requestly-modify-headers/mdnleldcmiljblolnjhpnblkcekpdkpa | Partially FREE|
-|Selection Finder | https://chrome.google.com/webstore/detail/selector-finder/aleacfocnimnddplebbpbfedfagnckcc/related| FREE |
+
 
 
