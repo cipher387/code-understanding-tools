@@ -134,4 +134,17 @@ You can read a summary of how to work with the different classes of tools in my 
 |Reqestly (Modify Headers, Mock APIs, Throttle APIs, Insert Scripts, Block APIs/JS/CSS, Redirect URLs) |https://chrome.google.com/webstore/detail/requestly-modify-headers/mdnleldcmiljblolnjhpnblkcekpdkpa | Partially FREE|
 
 
+ <hr>
+
+Twitter — https://twitter.com/cyb_detective
+
+Telegram — https://t.me/cybdetective
+
+Revue — https://www.getrevue.co/profile/cyb_detective
+
+Github — https://github.com/cipher387
+
+<hr>
+
+
 
