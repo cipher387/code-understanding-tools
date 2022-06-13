@@ -43,7 +43,7 @@ You can read a summary of how to work with the different classes of tools in my 
 | Explain SHELL (bash scripts) |https://explainshell.com/ | FREE |</br>
 | JavaScript code explainer |https://codeexplainer.org/ | FREE |</br>
 | Explain dev (many languages) |https://explain.dev/pricing/ | $4/month |</br>
-| Python, JavaScript, C, C++, Java tutors online (with code visaulisation)|[https://explain.dev/pricing/]([https://pythontutor.com](https://pythontutor.com)) | FREE |</br>
+| Python, JavaScript, C, C++, Java tutors online (with code visaulisation)|[https://pythontutor.com](https://pythontutor.com)]([https://pythontutor.com](https://pythontutor.com)) | FREE |</br>
 
 <h1>Code quality checkers</h1>
 
