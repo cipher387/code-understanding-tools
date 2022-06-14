@@ -12,7 +12,7 @@ Most of them are free.
 You can read a summary of how to work with the different classes of tools in my Twitter thread: https://twitter.com/cyb_detective/status/1508167717928546312
 
 
-<h1>Online compliers</h1>
+<h1>Online compilation (and script running)</h1>
 
 | Name             | Link            | Price       | 
 |------------------|-------------------------|-------------|
@@ -20,6 +20,7 @@ You can read a summary of how to work with the different classes of tools in my 
 | Codeshef (20+ languages) |https://www.codechef.com/ide | FREE |</br>
 | OneComplier (60+ languages) |https://onecompiler.com/ | FREE |</br>
 | PaizaCloud (20+ languages) |https://paiza.io/en | FREE |</br>
+| DotNETFiddle | https://dotnetfiddle.net | FREE |</br>
 
 
 <h1>Coding assistants</h1>
