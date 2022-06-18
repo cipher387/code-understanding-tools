@@ -1,4 +1,12 @@
 
+
+# CODE UNDERSTANDING TOOLS
+
+
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/code-understanding-tools">
+ 
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/code-understanding-tools">
+
 While working on various tasks in #osint (Open Source Intelligence), sometimes there is a need to quickly understand someone else's code.
 
 For example, when investigating a person's public profile on Github or Bitbucket.
