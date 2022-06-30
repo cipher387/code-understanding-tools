@@ -7,6 +7,9 @@
  
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/code-understanding-tools">
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+    <p align="center">
+
 While working on various tasks in #osint (Open Source Intelligence), sometimes there is a need to quickly understand someone else's code.
 
 For example, when investigating a person's public profile on Github or Bitbucket.
