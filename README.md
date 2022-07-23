@@ -87,6 +87,18 @@ You can read a summary of how to work with the different classes of tools in my 
 | JavaScript, C++, Java |https://algorithm-visualizer.org/ | FREE |</br>
 
 
+<h1>Database visualisators/compliers</h1>
+
+| Name             | Link            | Price       | 
+|------------------|-------------------------|-------------|
+| SQL Database Modeler | https://sqldbm.com/Home/ | from $25/month |</br>
+| SQL Fiddle | http://sqlfiddle.com/| FREE |</br>
+| SQLite Oniline Complier | https://sqliteonline.com | FREE |</br>
+| SQL Joins Visualizer | https://sql-joins.leopard.in.ua| FREE |</br>
+| DB Diagram IO |  https://dbdiagram.io/home | from $9/month |</br>
+| SQL Flow |  https://sqlflow.gudusoft.com/#/ | FREE |</br>
+| Draw SQL |  https://drawsql.app/ | from $15/month |</br>
+
 <h1>Comments generators</h1>
 
 | Name             | Link            | Price       | 
