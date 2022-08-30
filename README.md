@@ -59,6 +59,16 @@ You can read a summary of how to work with the different classes of tools in my 
 | Explain dev (many languages) |https://explain.dev/pricing/ | $4/month |</br>
 | Python, JavaScript, C, C++, Java tutors online (with code visaulisation)|[https://pythontutor.com](https://pythontutor.com)]([https://pythontutor.com](https://pythontutor.com)) | FREE |</br>
 
+
+
+<h1>AI refactoring</h1>
+
+| Name             | Link            | Price       | 
+|------------------|-------------------------|-------------|
+| Sourcery.AI (Python) | https://sourcery.ai/ | Partly free |</br>
+
+
+
 <h1>Code quality checkers</h1>
 
 | Name             | Link            | Price       | 
