@@ -59,11 +59,13 @@ You can read a summary of how to work with the different classes of tools in my 
 
 | Name             | Link            | Price       | 
 |------------------|-------------------------|-------------|
+| AI Code Translator (dozens of languages) | https://ai-code-translator.vercel.app/ | OpenAI API Key Required |</br>
 | Explain code app (Nodejs, JavaScript, Python, Go, SQl, Haskell) |https://www.explaincode.app/explain-code-tools | $6/month |</br>
 | Explain SHELL (bash scripts) |https://explainshell.com/ | FREE |</br>
 | JavaScript code explainer |https://codeexplainer.org/ | FREE |</br>
 | Explain dev (many languages) |https://explain.dev/pricing/ | $4/month |</br>
 | Python, JavaScript, C, C++, Java tutors online (with code visaulisation)|[https://pythontutor.com](https://pythontutor.com)]([https://pythontutor.com](https://pythontutor.com)) | FREE |</br>
+
 
 
 
