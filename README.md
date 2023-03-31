@@ -55,6 +55,7 @@ You can read a summary of how to work with the different classes of tools in my 
 |------------------|-------------------------|-------------|
 | Copilot (Python, Ruby, JavaScript, Go, TypeScript) |https://copilot.github.com/ | from $5.8/month |</br>
 
+
 <h1>Code explainers</h1>
 
 | Name             | Link            | Price       | 
@@ -67,6 +68,13 @@ You can read a summary of how to work with the different classes of tools in my 
 | Python, JavaScript, C, C++, Java tutors online (with code visaulisation)|[https://pythontutor.com](https://pythontutor.com)]([https://pythontutor.com](https://pythontutor.com)) | FREE |</br>
 
 
+
+
+<h1>Code translator</h1>
+
+| Name             | Link            | Price       | 
+|------------------|-------------------------|-------------|
+| AI Code Translator (dozens of languages) | https://ai-code-translator.vercel.app/ | OpenAI API Key Required |</br>
 
 
 <h1>AI refactoring</h1>
